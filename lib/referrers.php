@@ -2,7 +2,7 @@
 
 namespace gosquared\lib;
 
-class visitors extends gosquared_func {
+class referrers extends gosquared_func {
     protected $params;
     
     public function __construct() {

@@ -1,0 +1,3 @@
+[submodule "simpletest"]
+	path = test/simpletest
+	url = git@github.com:TheDeveloper/simpletest.git
