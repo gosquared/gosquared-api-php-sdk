@@ -17,8 +17,6 @@ function gosquared_autoload($class) {
         array_shift($class);
     $class = implode('/', $class);
     $class = __DIR__ . "/$class.php";
-    //echo $class;
-    //$class = str_replace('\\', '/', $class);
     $success = @include($class);
     if (!$success)
         throw new autoload_exception("Could not locate lib for class $class");
