@@ -1,4 +1,4 @@
-## PHP SDK for GoSquared API
+### PHP SDK for GoSquared API
 
 This is a quick and simple SDK for use in PHP applications.
 
