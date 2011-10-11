@@ -2,8 +2,6 @@
 
 namespace gosquared;
 
-ini_set('display_errors', 'On');
-
 require __DIR__.'/config.php';
 
 define('API_ENDPOINT', 'api.gosquared.com');
