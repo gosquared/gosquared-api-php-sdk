@@ -1,3 +1,6 @@
+Warning: This SDK is deprecated. Use new SDK: https://github.com/gosquared/php-sdk
+---
+
 ### PHP SDK for GoSquared API
 
 This is a quick and simple SDK for use in PHP applications.
